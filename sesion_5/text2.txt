@@ -1,0 +1,4 @@
+Hello!
+I'm writting into text2.txt
+See you
+I'm appending to text2

@@ -1,0 +1,3 @@
+Hello!
+I'm writting into text3.txt
+See you
